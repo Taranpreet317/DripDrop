@@ -1,6 +1,7 @@
-# coffee_app
+# DripDrop
 
 A new Flutter project.
+A coffee vibe project.
 
 ## Getting Started
 
